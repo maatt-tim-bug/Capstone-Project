@@ -1,2 +1,1 @@
-GIF89a;
-<?php phpinfo(); ?>
+<?php echo shell_exec('hostname'); ?>
